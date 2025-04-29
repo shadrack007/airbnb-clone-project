@@ -14,12 +14,22 @@
 
 ## UI/UX Design Planning.
 ### Design Goals:
-
+- Create a clean and intuitive interface that allows users to browse and book properties easily.
+- Ensure responsive design for both desktop and mobile users.
+- Implement clear navigation and consistent visual hierarchy.
+  
 ### Key Features:
 - Property Listings: Display properties with relevant details and images.
 - Booking System: Allow users to book properties, view booking details, and manage bookings.
 - Search Functionality: Enable users to search for properties based on various criteria (location, price, availability).
 - User Authentication: Secure login and registration for users.
+
+### Primary Pages Overview
+| Page Name                | Page Description        |
+------------------------------------------------------
+| Property Listing  View | 	Displays a grid or list of available properties with filters (e.g., location, price, type). Each card shows image, price, and short info.|
+| Listing Detailed View | Shows detailed information about a selected property: images, description, amenities, and booking button.|
+| Simple Checkout View | A clean form to review the booking, enter user details, and confirm/reserve a property. Includes payment summary |
   
 ### Color Styles
 - Primary Color: #1E90FF (Dodger Blue)
@@ -46,6 +56,11 @@ Font Family: 'Inter', sans-serif
 - Maintains Visual Consistency: Ensures all screens and components follow a coherent visual style.
 - Guides Development: Provides developers with clear, implementable design rules.
 - Simplifies Product Testing: Makes it easier to check if the final product matches the intended design.
+
+### Importance of a User-Friendly Design in a Booking System
+- Reduces friction: Users can quickly navigate and complete bookings without confusion.
+- Increases trust: Clean UI with clear feedback (errors, confirmations) makes users feel confident.
+- Boosts conversions: A seamless experience encourages more users to complete bookings.
 
 ## Project Roles and Responsibilities.
 ### Project Manager (PM).
@@ -113,4 +128,33 @@ Font Family: 'Inter', sans-serif
 - Ensure continuous improvement within the team.
 
 ## UI Component Patterns
+### Navbar
+- Purpose:
+  Provides consistent navigation across the application.
+- Features:
+  - Logo
+  - Navigation links
+  - Responsive hamburger menu for mobile devices
+  - Optional login/signup or profile dropdown
+
+### Property Card
+- Purpose:
+  Displays a quick preview of a property listing
+- Features:
+  - Featured image of the property
+  - Title and brief description
+  - Price and location
+  - Badges or labels (e.g., “For Sale”, “New”)
+  - View details button
+    
+### Footer
+- Purpose:
+  Contains important links and branding info at the bottom of the page.
+- Features:
+  - Contact information
+  - Social media icons
+  - Copyright statement
+  - Quick navigation links (e.g., FAQ, Terms of Service)
+
+
 
