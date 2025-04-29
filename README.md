@@ -1,4 +1,4 @@
-# Airbn clope project.
+# Airbn clone project.
 
 ## Goals.
 - Understanding the project scope.
@@ -13,6 +13,39 @@
 - Other Tools: Redux or Context API for state management, REST for API integration, Jest for testing.
 
 ## UI/UX Design Planning.
+### Design Goals:
+
+### Key Features:
+- Property Listings: Display properties with relevant details and images.
+- Booking System: Allow users to book properties, view booking details, and manage bookings.
+- Search Functionality: Enable users to search for properties based on various criteria (location, price, availability).
+- User Authentication: Secure login and registration for users.
+  
+### Color Styles
+- Primary Color: #1E90FF (Dodger Blue)
+- Secondary Color: #FFD700 (Gold)
+- Accent Color: #FF6B6B (Coral Red)
+- Background Color: #F8F9FA (Light Gray)
+- Text Color: #212529 (Dark Gray/Black)
+- Muted Color: #6C757D (Muted Gray)
+  
+### Typography
+Font Family: 'Inter', sans-serif
+- Font Weights:
+  - 400 – Regular (body text)
+  - 600 – Semi-bold (subheadings, labels)
+  - 700 – Bold (titles and section headings)
+- Font Sizes:
+  - 12px – Small text (labels, captions)
+  - 16px – Body text
+  - 20px – Subheadings
+  - 28px – Headings
+  - 36px+ – Hero Titles
+
+### Importance of Identifying Design Properties in a Mockup
+- Maintains Visual Consistency: Ensures all screens and components follow a coherent visual style.
+- Guides Development: Provides developers with clear, implementable design rules.
+- Simplifies Product Testing: Makes it easier to check if the final product matches the intended design.
 
 ## Project Roles and Responsibilities.
 ### Project Manager (PM).
