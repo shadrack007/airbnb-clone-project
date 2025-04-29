@@ -1,4 +1,4 @@
-# Airbn clone project.
+# Airbnb clone project.
 
 ## Goals.
 - Understanding the project scope.
@@ -26,7 +26,7 @@
 
 ### Primary Pages Overview
 | Page Name                | Page Description        |
-------------------------------------------------------
+|------------------------------------------------------|
 | Property Listing  View | 	Displays a grid or list of available properties with filters (e.g., location, price, type). Each card shows image, price, and short info.|
 | Listing Detailed View | Shows detailed information about a selected property: images, description, amenities, and booking button.|
 | Simple Checkout View | A clean form to review the booking, enter user details, and confirm/reserve a property. Includes payment summary |
